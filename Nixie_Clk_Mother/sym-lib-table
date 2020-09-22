@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 180V_Boost)(type Legacy)(uri C:/Users/maert/KiCAD_Projects/Templates/Valentine_180V_Supply/180V_Boost.lib)(options "")(descr ""))
+  (lib (name Nixie_Clk_Mother-rescue)(type Legacy)(uri ${KIPRJMOD}/Nixie_Clk_Mother-rescue.lib)(options "")(descr ""))
+  (lib (name Valentinas_180V_Boost)(type Legacy)(uri /home/mmaertz/Circuit_Projects/Templates/Valentine_180V_Supply/Valentinas_180V_Boost.lib)(options "")(descr ""))
+)

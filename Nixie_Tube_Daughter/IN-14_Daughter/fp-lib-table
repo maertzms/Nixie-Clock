@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Nixie_Tubes)(type KiCad)(uri C:/Users/maert/KiCAD_Projects/Templates/Nixie_Tubes.pretty)(options "")(descr ""))
+  (lib (name IN-14_Daughter)(type KiCad)(uri /home/mmaertz/Circuit_Projects/Templates/Nixie_Tubes/IN-14_Daughter.pretty)(options "")(descr ""))
+  (lib (name IN-14)(type KiCad)(uri /home/mmaertz/Circuit_Projects/Templates/IN-14.pretty)(options "")(descr ""))
+)

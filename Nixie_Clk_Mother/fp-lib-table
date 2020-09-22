@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Nixie_180V_Supply)(type KiCad)(uri /home/mmaertz/Circuit_Projects/Templates/Valentine_180V_Supply/Nixie_180V_Supply.pretty)(options "")(descr ""))
+)
