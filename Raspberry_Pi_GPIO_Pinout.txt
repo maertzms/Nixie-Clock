@@ -1,0 +1,44 @@
+Hours_tens_pin_1_gpio = 8;  // PIN 3 MSB
+Hours_tens_pin_2_gpio = 9;  // PIN 5
+Hours_tens_pin_3_gpio = 7;  // PIN 7
+Hours_tens_pin_4_gpio = 0; // PIN 11 LSB
+
+Hours_ones_pin_1_gpio = 2; // PIN 13 MSB
+Hours_ones_pin_2_gpio = 3; // PIN 15
+Hours_ones_pin_3_gpio = 12; // PIN 19
+Hours_ones_pin_4_gpio = 13; // PIN 21 LSB
+
+Minutes_tens_pin_1_gpio = 14;    // PIN 23 MSB
+Minutes_tens_pin_2_gpio = 21;    // PIN 29
+Minutes_tens_pin_3_gpio = 22;    // PIN 31
+Minutes_tens_pin_4_gpio = 23;    // PIN 33 LSB
+
+Minutes_ones_pin_1 = 24;    // PIN 35 MSB
+Minutes_ones_pin_2 = 25;    // PIN 37
+Minutes_ones_pin_3 = 28;    // PIN 38
+Minutes_ones_pin_4 = 27;    // PIN 36 LSB
+
+Seconds_tens_pin_1_gpio = 26;    // PIN 32 MSB
+Seconds_tens_pin_2_gpio = 11;    // PIN 26
+Seconds_tens_pin_3_gpio = 10;    // PIN 24
+Seconds_tens_pin_4_gpio = 6;     // PIN 22 LSB
+
+Seconds_ones_pin_1 = 16;    // PIN 10 MSB
+Seconds_ones_pin_2 = 1;     // PIN 12
+Seconds_ones_pin_3 = 4;     // PIN 16
+Seconds_ones_pin_4 = 5;     // PIN 18 LSB
+
+3.3 PIN 1
+GND PIN 9
+3.3 PIN 17
+GND PIN 25
+DDA0 PIN 27
+GND PIN 39
+GND PIN 34
+GND PIN 30
+SCL0 PIN 28
+GND PIN 20
+GND PIN 14
+GND PIN 6
+5V  PIN 4
+5V  PIN 2
