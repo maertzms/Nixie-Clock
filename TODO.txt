@@ -1,0 +1,4 @@
+combine gpio control and time determination
+get 4 bit wide number representation from integer in python
+check for memory leaks
+assemble + test
