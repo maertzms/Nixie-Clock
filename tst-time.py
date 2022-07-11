@@ -10,6 +10,7 @@ for i in range(1, 100):
     tm, um = minute//10, minute%10
     ts, us = second//10, second%10
     print(str(th), str(uh), ":", str(tm), str(um), ":", str(ts), str(us))
-    print('{0:04b}'.format(th), '{0:04b}'.format(uh))
-
-    time.sleep(0.5)
+    print('{0:04b}'.format(us), '{0:04b}'.format(uh))
+    temp = '{0:04b}'.format(us)
+    print(us[3])
+    time.sleep(0.99)
