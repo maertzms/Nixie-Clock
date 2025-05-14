@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-05-13_01-00-56")(type "KiCad")(uri "C:/Users/mmaer/OneDrive/Documents/Projects/Nixie_Clock/Tube_Host/downloaded_lib/electronics_components/KiCADv6/2025-05-13_01-00-56.kicad_sym")(options "")(descr ""))
+  (lib (name "mylib")(type "KiCad")(uri "${KIPRJMOD}/mylib.kicad_sym")(options "")(descr ""))
+  (lib (name "AP33771CFBZ-13")(type "KiCad")(uri "C:/Users/mmaer/Downloads/LIB_AP33771CFBZ-13/AP33771CFBZ-13/KiCad/AP33771CFBZ-13.kicad_sym")(options "")(descr ""))
+)
